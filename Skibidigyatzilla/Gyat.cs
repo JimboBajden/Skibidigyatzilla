@@ -9,5 +9,6 @@ namespace Skibidigyatzilla
     internal class Gyat
     {
         public string x = "skibidi";
+        public string z = "zilla";
     }
 }
